@@ -1,0 +1,141 @@
+/* Titles */
+
+.title1 {
+  font-size: 2.5em;
+  margin: 0 0 10px 0;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.title2 {
+  font-size: 2em;
+  margin: 0 0 10px 0;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.title3 {
+  font-size: 1.75em;
+  margin: 0 0 10px 0;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.title4 {
+  font-size: 1.5em;
+  margin: 0 0 10px 0;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.title5 {
+  font-size: 1.25em;
+  margin: 0 0 10px 0;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.title6 {
+  font-size: 1em;
+  margin: 0 0 10px 0;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+/* Subtitles */
+
+.subtitle1 {
+  font-size: 2.5em;
+  margin: 0 0 10px 0;
+  font-weight: 400;
+  color: lightgray;
+  transition: all 0.2s;
+}
+
+.subtitle2 {
+  font-size: 2em;
+  margin: 0 0 10px 0;
+  font-weight: 400;
+  color: lightgray;
+  transition: all 0.2s;
+}
+
+.subtitle3 {
+  font-size: 1.75em;
+  margin: 0 0 10px 0;
+  font-weight: 400;
+  color: lightgray;
+  transition: all 0.2s;
+}
+
+.subtitle4 {
+  font-size: 1.5em;
+  margin: 0 0 10px 0;
+  font-weight: 400;
+  color: lightgray;
+  transition: all 0.2s;
+}
+
+.subtitle5 {
+  font-size: 1.25em;
+  margin: 0 0 10px 0;
+  font-weight: 400;
+  color: lightgray;
+  transition: all 0.2s;
+}
+
+.subtitle6 {
+  font-size: 1em;
+  margin: 0 0 10px 0;
+  font-weight: 400;
+  color: lightgray;
+  transition: all 0.2s;
+}
+
+/* Text style */
+.text-center {
+  text-align: center !important;
+}
+.text-left {
+  text-align: left !important;
+}
+.text-right {
+  text-align: right !important;
+}
+.text-uppercase {
+  text-transform: uppercase !important;
+}
+.text-lowercase {
+  text-transform: lowercase !important;
+}
+.text-capitalize {
+  text-transform: capitalize !important;
+}
+
+@media (max-width: 576px) {
+
+}
+
+@media (max-width: 768px) {
+  .title1 { font-size: 2.0em; }
+  .title2 { font-size: 1.75em; }
+  .title3 { font-size: 1.5em; }
+  .title4 { font-size: 1.25em; }
+  .title5 { font-size: 1.0em; }
+  .title6 { font-size: 0.75em; }
+
+  .subtitle1 { font-size: 2.0em; }
+  .subtitle2 { font-size: 1.75em; }
+  .subtitle3 { font-size: 1.5em; }
+  .subtitle4 { font-size: 1.25em; }
+  .subtitle5 { font-size: 1.0em; }
+  .subtitle6 { font-size: 0.75em; }
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
