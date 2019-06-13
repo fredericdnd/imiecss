@@ -1,41 +1,41 @@
 /* Titles */
 
-.title1 {
+h1 {
     font-size: 2.5em;
     margin: 0 0 10px 0;
     font-weight: 600;
     transition: all 0.2s;
 }
 
-.title2 {
+h2 {
     font-size: 2em;
     margin: 0 0 10px 0;
     font-weight: 600;
     transition: all 0.2s;
 }
 
-.title3 {
+h3 {
     font-size: 1.75em;
     margin: 0 0 10px 0;
     font-weight: 600;
     transition: all 0.2s;
 }
 
-.title4 {
+h4 {
     font-size: 1.5em;
     margin: 0 0 10px 0;
     font-weight: 600;
     transition: all 0.2s;
 }
 
-.title5 {
+h5 {
     font-size: 1.25em;
     margin: 0 0 10px 0;
     font-weight: 600;
     transition: all 0.2s;
 }
 
-.title6 {
+h6 {
     font-size: 1em;
     margin: 0 0 10px 0;
     font-weight: 600;

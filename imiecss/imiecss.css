@@ -1,7 +1,8 @@
 @import url('typo.css');
 @import url('margins.css');
 @import url('paddings.css');
-
+@import url('form.css');
+@import url('button.css');
 body {
     margin: 0;
 }
