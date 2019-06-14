@@ -26,6 +26,6 @@ table tr:hover {
 
 table th {
     text-align: left;
-    background-color: blue;
+    background-color: rgb(20, 147, 189);
     color: white;
 }
