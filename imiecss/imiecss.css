@@ -3,6 +3,7 @@
 @import url('paddings.css');
 @import url('form.css');
 @import url('button.css');
+@import url('table.css');
 body {
     margin: 0;
 }
