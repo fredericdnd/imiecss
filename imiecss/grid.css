@@ -28,14 +28,13 @@
     }
 }
 
+
 /* Row */
 
 @media (max-width: 768px) {
     .row {
         display: flex;
         flex-wrap: wrap;
-        margin-right: 8%;
-        margin-left: 8%;
     }
 }
 
@@ -43,8 +42,6 @@
     .row {
         display: flex;
         flex-wrap: wrap;
-        margin-right: 12%;
-        margin-left: 12%;
     }
 }
 
@@ -52,8 +49,6 @@
     .row {
         display: flex;
         flex-wrap: wrap;
-        margin-right: 14%;
-        margin-left: 14%;
     }
 }
 
@@ -61,10 +56,9 @@
     .row {
         display: flex;
         flex-wrap: wrap;
-        margin-right: 18%;
-        margin-left: 18%;
     }
 }
+
 
 /* Col */
 
@@ -139,5 +133,3 @@
     width: 100%;
     min-height: 1px;
 }
-
-
