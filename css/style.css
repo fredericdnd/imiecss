@@ -16,30 +16,3 @@ pre {
     border-radius: 4px;
 }
 
-@media (max-width: 768px) {
-    .container {
-        margin-left: 8%;
-        margin-right: 8%;
-    }
-}
-
-@media (min-width: 768px) and (max-width: 992px) {
-    .container {
-        margin-left: 12%;
-        margin-right: 12%;
-    }
-}
-
-@media (min-width: 992px) and (max-width: 1200px) {
-    .container {
-        margin-left: 14%;
-        margin-right: 14%;
-    }
-}
-
-@media (min-width: 1200px) {
-    .container {
-        margin-left: 18%;
-        margin-right: 18%;
-    }
-}
